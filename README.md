@@ -4,5 +4,5 @@ Featuring 100 levels and settings menu.
 
 
 ## TODO
-- [] Add Settings mode
-- [] Improve level scaling
+- Add Settings mode
+- Improve level scaling
